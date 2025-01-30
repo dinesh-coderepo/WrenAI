@@ -117,3 +117,12 @@ async def lifespan(app: FastAPI):
 - All providers are located at [`wren-ai-service/src/providers`](../src/providers)
 - The abstract classes for providers(LLM, embedding model and document store) are defined at [`wren-ai-service/src/core/provider.py`](../src/core/provider.py)
 - The abstract class for engine is defined at [`wren-ai-service/src/core/engine.py`](../src/core/engine.py)
+
+## Additional Resources
+
+For more detailed documentation, tutorials, and in-depth analysis, please refer to the following resources:
+
+- [Architecture](../../documents/architecture.md)
+- [Getting Started](../../documents/tutorials/getting_started.md)
+- [Adding a New Feature](../../documents/tutorials/adding_new_feature.md)
+- [Deployment](../../documents/tutorials/deployment.md)

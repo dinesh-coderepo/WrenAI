@@ -161,3 +161,13 @@ If you prefer to learn by example, you can refer to this Trino [issue](https://g
    - Verify that the form works correctly
    - Test the connection to the new data source
 
+## Additional Resources
+
+For more information on contributing to WrenAI, refer to the following resources:
+
+- [Contributing Guide](documents/contributing.md)
+- [Getting Started](documents/tutorials/getting_started.md)
+- [Adding a New Feature](documents/tutorials/adding_new_feature.md)
+- [Deployment](documents/tutorials/deployment.md)
+
+We appreciate your contributions and look forward to working with you!
