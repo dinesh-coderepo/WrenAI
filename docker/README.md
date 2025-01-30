@@ -40,3 +40,9 @@ that we created on the previous step. After modifying the file, you can restart 
 
 For detailed information on how to modify the configuration for different LLM providers and models, please refer to the [AI Service Configuration](../wren-ai-service/docs/configuration.md).
 This guide provides comprehensive instructions on setting up various LLM providers, embedders, and other components of the AI service.
+
+## Additional Resources
+
+For more detailed documentation, tutorials, and in-depth analysis, please refer to the following resources:
+
+- [Deployment](../documents/tutorials/deployment.md)

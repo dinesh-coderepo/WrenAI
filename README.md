@@ -1,4 +1,3 @@
-
 <p align="center" id="top">
   <a href="https://getwren.ai/?utm_source=github&utm_medium=title&utm_campaign=readme">
     <picture>
@@ -177,6 +176,8 @@ Using Wren AI is super simple, you can set it up within 3 minutes, and start to 
 ## 📚 Documentation
 
 Visit [Wren AI documentation](https://docs.getwren.ai/oss/overview/introduction?utm_source=github&utm_medium=content&utm_campaign=readme) to view the full documentation.
+
+For more detailed documentation, tutorials, and in-depth analysis, please refer to the [Wren AI Documents](documents/README.md).
 
 ## 🛠️ Contribution
 
